@@ -5,7 +5,7 @@ Hi 👋 I'm Raphael.
 ## About Me
 - Interested in Data Analytics & Management
 - Skilled in Excel, PowerPoint, Graphics Design
-- Learning GitHub, and Power BI
+- Learning Power BI
 
 ## Projects
 - 📊 Excel Dashboard Analysis
